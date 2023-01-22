@@ -1,0 +1,15 @@
+{
+  "name": "htb-team-activity",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that sends a nice embed on an activity completion from pre-defined team.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Ten#0010",
+  "license": "WTFPL",
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.4",
+    "axios": "^1.2.3",
+    "discord-http-interactions": "^1.4.1",
+    "keyv": "^4.5.2"
+  }
+}
